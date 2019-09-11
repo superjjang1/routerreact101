@@ -2,7 +2,8 @@ import React from 'react';
 
 function About(props){
     return(
-        <h1> this is the About page, I'm powerful routing tool</h1>
+        <img src="https://i.imgur.com/5zwk80Y.jpg"/>
+
     )
 }
 
